@@ -1,7 +1,10 @@
-Tool to bootstrap the muliple filter parameter SeaFlow repo.
+Tool to bootstrap the multiple filter parameter SeaFlow repo.
 
-Import paramters from https://github.com/seaflow-uw/seaflow-filter
-and then replace as needed with multiple parameter files.
+Import parameters from seaflow-filter and seaflow-sfl repos and then replace
+as needed with multiple parameter files.
+
+* [https://github.com/seaflow-uw/seaflow-filter](https://github.com/seaflow-uw/seaflow-filter)
+* [https://github.com/seaflow-uw/seaflow-sfl](https://github.com/seaflow-uw/seaflow-sfl)
 
 ## Install
 
@@ -14,4 +17,3 @@ poetry install --no-root
 ## Run
 
 With the poetry environment activated, run `./import-existing.py`.
-
