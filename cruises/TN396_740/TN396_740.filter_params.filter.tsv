@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	TN396_740	aa1997eb-2c2b-421d-837b-f6cdbee7bdba	2024-02-09T18:39:31+00:00	2.5	48760	41000	39712	15000	0.943	0.917	1.64	1.637	-5000	-5000	-38966	-40108
+740	TN396_740	aa1997eb-2c2b-421d-837b-f6cdbee7bdba	2024-02-09T18:39:31+00:00	50.0	49600	39312	37824	15000	0.893	0.863	1.635	1.632	-5000	-5000	-41784	-43123
+740	TN396_740	aa1997eb-2c2b-421d-837b-f6cdbee7bdba	2024-02-09T18:39:31+00:00	97.5	50144	37376	35632	15000	0.845	0.81	1.63	1.627	-5000	-5000	-44359	-45952

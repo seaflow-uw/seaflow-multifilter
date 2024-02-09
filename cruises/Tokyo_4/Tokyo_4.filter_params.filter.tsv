@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+751	Tokyo_4	aad56df4-21aa-4bb1-8a60-0f5e3f344322	2024-02-09T18:39:31+00:00	2.5	51624	22020	22096	5000	0.427	0.428	1.904	2.034	0	0	-76272	-82907
+751	Tokyo_4	aad56df4-21aa-4bb1-8a60-0f5e3f344322	2024-02-09T18:39:31+00:00	50.0	51904	20504	20896	5000	0.395	0.403	1.91	2.04	0	0	-78633	-84988
+751	Tokyo_4	aad56df4-21aa-4bb1-8a60-0f5e3f344322	2024-02-09T18:39:31+00:00	97.5	52336	18740	18896	5000	0.358	0.361	1.915	2.047	0	0	-81483	-88236

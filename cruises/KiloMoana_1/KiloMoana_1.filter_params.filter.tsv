@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	KiloMoana_1	0b14b48f-7417-450c-bd71-b0234dc833ed	2024-02-09T18:39:31+00:00	2.5	42976	9992	10864	5000	0.233	0.253	1.64	1.637	0	0	-60489	-59488
+740	KiloMoana_1	0b14b48f-7417-450c-bd71-b0234dc833ed	2024-02-09T18:39:31+00:00	50.0	43632	8352	8240	5000	0.191	0.189	1.635	1.632	0	0	-62986	-62967
+740	KiloMoana_1	0b14b48f-7417-450c-bd71-b0234dc833ed	2024-02-09T18:39:31+00:00	97.5	44160	6832	5168	5000	0.155	0.117	1.63	1.627	0	0	-65149	-66680

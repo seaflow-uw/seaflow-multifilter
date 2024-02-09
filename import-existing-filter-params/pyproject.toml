@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "import-existing-filter-params"
+version = "0.1.0"
+description = "Tool to import filter paramters from https://github.com/seaflow-uw/seaflow-filter"
+authors = ["Chris T. Berthiaume <chrisbee@uw.edu>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.0"
+click = "^8.1.7"
+pyarrow = "^15.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	HOT312	2c135880-da0c-404a-838f-aeb7d1807ddf	2024-02-09T18:39:31+00:00	2.5	47568	32288	39488	5000	0.679	0.83	1.64	1.637	0	0	-45724	-38381
+740	HOT312	2c135880-da0c-404a-838f-aeb7d1807ddf	2024-02-09T18:39:31+00:00	50.0	48192	30416	37616	5000	0.631	0.781	1.635	1.632	0	0	-48378	-41033
+740	HOT312	2c135880-da0c-404a-838f-aeb7d1807ddf	2024-02-09T18:39:31+00:00	97.5	48704	28624	36080	5000	0.588	0.741	1.63	1.627	0	0	-50764	-43161

@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	Thompson_5	8aa5aaca-5bd4-4458-8818-ddc4397a91a3	2024-02-09T18:39:31+00:00	2.5	35824	12496	9856	5000	0.349	0.275	1.64	1.637	0	0	-46255	-48788
+740	Thompson_5	8aa5aaca-5bd4-4458-8818-ddc4397a91a3	2024-02-09T18:39:31+00:00	50.0	36795	11584	7488	5000	0.315	0.204	1.635	1.632	0	0	-48576	-52561
+740	Thompson_5	8aa5aaca-5bd4-4458-8818-ddc4397a91a3	2024-02-09T18:39:31+00:00	97.5	37573	10768	5216	5000	0.287	0.139	1.63	1.627	0	0	-50476	-55915

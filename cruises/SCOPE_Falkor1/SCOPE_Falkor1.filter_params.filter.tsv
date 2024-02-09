@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	SCOPE_Falkor1	7a300b20-2275-4d9f-b948-847a79ba8263	2024-02-09T18:39:31+00:00	2.5	53696	45632	50352	5000	0.85	0.938	1.64	1.637	0	0	-42429	-37548
+740	SCOPE_Falkor1	7a300b20-2275-4d9f-b948-847a79ba8263	2024-02-09T18:39:31+00:00	50.0	54304	44592	49312	5000	0.821	0.908	1.635	1.632	0	0	-44195	-39312
+740	SCOPE_Falkor1	7a300b20-2275-4d9f-b948-847a79ba8263	2024-02-09T18:39:31+00:00	97.5	54816	43580	48144	5000	0.795	0.878	1.63	1.627	0	0	-45770	-41042

@@ -1,0 +1,4 @@
+instrument	cruise	id	date	quantile	beads_fsc_small	beads_D1	beads_D2	width	notch_small_D1	notch_small_D2	notch_large_D1	notch_large_D2	offset_small_D1	offset_small_D2	offset_large_D1	offset_large_D2
+740	KOK1805	f7788bd8-5c9a-46aa-92e0-9b7a86e5ef24	2024-02-09T18:39:31+00:00	2.5	53264	35120	39984	5000	0.659	0.751	1.64	1.637	0	0	-52233	-47209
+740	KOK1805	f7788bd8-5c9a-46aa-92e0-9b7a86e5ef24	2024-02-09T18:39:31+00:00	50.0	54512	33168	38864	5000	0.608	0.713	1.635	1.632	0	0	-55959	-50100
+740	KOK1805	f7788bd8-5c9a-46aa-92e0-9b7a86e5ef24	2024-02-09T18:39:31+00:00	97.5	55232	31600	37920	5000	0.572	0.687	1.63	1.627	0	0	-58428	-51942
